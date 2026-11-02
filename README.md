@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/weiweihu/">LinkedIn</a> ·
   <a href="https://weiweihu.carrd.co/">Website</a> ·
-  <a href="https://wei-wei-hu.github.io/ai-hub/">AI Productivity Hub</a> ·
+  <a href="https://wei-wei-hu.github.io/ai-hub/">AI Hub</a> ·
   <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7433145050123026432">Afterglimpse</a> ·
   <a href="https://behindprompt.substack.com/">Substack</a> ·
   <a href="https://www.amazon.com/dp/B0FX2B9WH4">GEO Book</a>
@@ -78,7 +78,7 @@ This page has two halves. **Work** is organised around the AI flywheel I drive f
 
 ### ⚡ Tools I use every day
 
-**[AI Productivity Hub](https://wei-wei-hu.github.io/ai-hub/)** brings my everyday AI tools together in one place: [Underline AI](https://wei-wei-hu.github.io/underline-ai/) for next-step action plans, the [Program Status Board](https://wei-wei-hu.github.io/program-management/) for project tracking, and Minutes to Actions for meeting follow-ups.
+**[AI Hub](https://wei-wei-hu.github.io/ai-hub/)** brings my everyday AI tools together in one place: [Underline AI](https://wei-wei-hu.github.io/underline-ai/) for next-step action plans, the [Program Status Board](https://wei-wei-hu.github.io/program-management/) for project tracking, and Minutes to Actions for meeting follow-ups.
 
 **Work with me:** through **Signals Lab** I help leaders and teams with AI strategy, decision frameworks and executive communication. Reach out through the Services section on [LinkedIn](https://www.linkedin.com/in/weiweihu/).
 
