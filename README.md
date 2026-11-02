@@ -80,14 +80,6 @@ Here you’ll find what I’m working on for work and life. **Work** is where I 
 
 **[AI Hub](https://wei-wei-hu.github.io/ai-hub/)** brings my everyday AI tools together in one place: [Underline AI](https://wei-wei-hu.github.io/underline-ai/) for next-step action plans, the [Program Status Board](https://wei-wei-hu.github.io/program-management/) for project tracking, and Minutes to Actions for meeting follow-ups.
 
-<details>
-<summary><b>Tools I reach for</b></summary>
-<br>
-
-`Claude` · `Claude Code` · `Agent Skills` · `MCP` · `Python` · `SQL` · `predictive modeling` · `GitHub Pages` · `Cloudflare Workers` · `Stripe`
-
-</details>
-
 ---
 
 ## 🌿 Life
