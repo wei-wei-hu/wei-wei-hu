@@ -91,8 +91,6 @@ Making things by hand keeps my product instincts honest. Several of my tools sta
 | 🧭 **[Life Designer Pro](https://wei-wei-hu.github.io/life-designer-pro/)** | AI life-design coach for mapping career and life paths. Free and private in your browser, also available as a Claude Code skill |
 | 🥗 **[Evera Table](https://everatable.pages.dev)** | AI kitchen companion: snap a photo, describe the meal, get the recipe and steps |
 
-Outside the screen I draw colored-pencil illustrations and design jewelry.
-
 ---
 
 ## 📬 Connect with me
