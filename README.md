@@ -21,7 +21,7 @@ Here you’ll find what I’m working on for work and life. **Work** is where I 
 
 ---
 
-## 💼 Work
+## 💼 My Work
 
 <p align="center">
   <img src="./assets/flywheel-v3.svg" alt="The AI flywheel: 01 Build AI fluency and adoption. 02 Preserve knowledge and expertise. 03 Transform business workflows. 04 Measure success. 05 Operations and communication." width="100%">
