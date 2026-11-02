@@ -99,7 +99,7 @@ I write about what I learn from working at the intersection of AI, data, leaders
 I’m always curious and love creating things. Some of my favorite projects grow out of everyday life and the things I care about.
 
 <p align="center">
-  <img src="./assets/things-i-create.svg" alt="Things I Create: AI Hub at the center, connected to The Atelier, Underline AI, Evera Table, Life Designer Pro and Program Status Board. 01 Notice: start with what I care about. 02 Build: turn it into a small AI tool. 03 Share: open it up for anyone." width="100%">
+  <img src="./assets/things-i-make.svg" alt="Things I make, for everyday life: AI Hub, Underline AI, Program Status Board, The Atelier, Life Designer Pro and Evera Table, pinned like polaroid photos in a sketchbook." width="100%">
 </p>
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Project&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="./assets/spacer.svg" width="620" height="1"><br>What it does |
