@@ -56,7 +56,7 @@ Here you’ll find what I’m working on for work and life. **Work** is where I 
 |---|---|
 | 📈 **[AI Performance & ROI](https://wei-wei-hu.github.io/ai-performance-roi/)** | Dashboard and ROI calculator for AI adoption and business value |
 | 🎯 **AI Value Scorecard** | Tracks adoption, time saved, quality and business outcomes |
-| 🔁 **AI Operating Rhythm Kit** | Monthly AI review agenda, portfolio tracker and stakeholder update templates |
+| 🔁 **AI Operating Kit** | Monthly AI review agenda, portfolio tracker and stakeholder update templates |
 
 ### 05 · Operations & communication
 
