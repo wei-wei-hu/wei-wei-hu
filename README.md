@@ -80,25 +80,6 @@ Here you’ll find what I’m working on for work and life. **Work** is where I 
 
 **[AI Hub](https://wei-wei-hu.github.io/ai-hub/)** brings my everyday AI tools together in one place: [Underline AI](https://wei-wei-hu.github.io/underline-ai/) for next-step action plans, the [Program Status Board](https://wei-wei-hu.github.io/program-management/) for project tracking, and Minutes to Actions for meeting follow-ups.
 
-**Work with me:** through **Signals Lab** I help leaders and teams with AI strategy, decision frameworks and executive communication. Reach out through the Services section on [LinkedIn](https://www.linkedin.com/in/weiweihu/).
-
-<table>
-<tr>
-<td width="33%" valign="top">
-<b>$25B</b><br>
-<sub>business I support as Staff to the GM/SVP</sub>
-</td>
-<td width="33%" valign="top">
-<b>3,000+</b><br>
-<sub>members in the data science community I lead</sub>
-</td>
-<td width="33%" valign="top">
-<b>1 book</b><br>
-<sub>on Generative Engine Optimization</sub>
-</td>
-</tr>
-</table>
-
 <details>
 <summary><b>Tools I reach for</b></summary>
 <br>
