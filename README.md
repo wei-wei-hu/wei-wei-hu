@@ -29,7 +29,7 @@ Here you’ll find what I’m working on for work and life. **Work** is where I 
 
 ### 01 · Build AI fluency & adoption
 
-| Deliverable | Description |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deliverable&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="./assets/spacer.svg" width="620" height="1"><br>Description |
 |---|---|
 | 🧭 **AI Fluency Self-Assessment** | 10-minute quiz that sets your AI fluency level and a 30-day learning path |
 | 🏆 **AI Champions Kit** | Workshop deck, prompt cards and office-hours playbook to bring a team along |
@@ -38,21 +38,21 @@ Here you’ll find what I’m working on for work and life. **Work** is where I 
 
 ### 02 · Preserve knowledge & expertise
 
-| Deliverable | Description |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deliverable&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="./assets/spacer.svg" width="620" height="1"><br>Description |
 |---|---|
 | 🧠 **Expert-to-Skill Kit** | Guided interview that turns an expert's judgment into a reusable Claude skill |
 | 📒 **Decision Log** | Template that records what was decided, why, and what was expected |
 
 ### 03 · Transform business workflows
 
-| Deliverable | Description |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deliverable&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="./assets/spacer.svg" width="620" height="1"><br>Description |
 |---|---|
 | 🔍 **Workflow Opportunity Scanner** | Scores each process step as automate, assist or keep human |
 | 🏗️ **workflow-architect** | Claude skill package from process mapping to agent specs |
 
 ### 04 · Measure success
 
-| Deliverable | Description |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deliverable&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="./assets/spacer.svg" width="620" height="1"><br>Description |
 |---|---|
 | 📈 **[AI Performance & ROI](https://wei-wei-hu.github.io/ai-performance-roi/)** | Dashboard and ROI calculator for AI adoption and business value |
 | 🎯 **AI Value Scorecard** | Tracks adoption, time saved, quality and business outcomes |
@@ -60,7 +60,7 @@ Here you’ll find what I’m working on for work and life. **Work** is where I 
 
 ### 05 · Operations & communication
 
-| Deliverable | Description |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deliverable&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="./assets/spacer.svg" width="620" height="1"><br>Description |
 |---|---|
 | ✉️ **Leader's Brief Pack** | Templates for executive decision memos and stakeholder updates |
 | 🏭 **AI Use Case & Agent Factory** | One inventory of every AI use case and agent, with its owner, stage, value and next decision |
@@ -69,7 +69,7 @@ Here you’ll find what I’m working on for work and life. **Work** is where I 
 
 ### ✍️ Writing
 
-| | What it is |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Writing&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="./assets/spacer.svg" width="620" height="1"><br>What it is |
 |---|---|
 | 📰 **[Afterglimpse](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7433145050123026432)** | LinkedIn newsletter on tech, leadership, and the operations that connect them, for founders and executives |
 | ✍️ **[Behind The Prompt](https://behindprompt.substack.com/)** | My Substack on tech, leadership and innovation, thinking in public, including the **[Make AI Work](https://behindprompt.substack.com/s/make-ai-work)** series |
@@ -82,7 +82,7 @@ Here you’ll find what I’m working on for work and life. **Work** is where I 
 
 Making things by hand keeps my product instincts honest. Several of my tools started at home before they reached work.
 
-| My AI Tools | What it is |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My&nbsp;AI&nbsp;Tools&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="./assets/spacer.svg" width="620" height="1"><br>What it is |
 |---|---|
 | ⚡ **[AI Hub](https://wei-wei-hu.github.io/ai-hub/)** | One home for my everyday AI tools |
 | 💡 **[Underline AI](https://wei-wei-hu.github.io/underline-ai/)** | Turns one situation into a one-page action plan with a next best step |
