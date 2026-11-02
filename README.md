@@ -24,7 +24,7 @@ Here you’ll find what I’m working on for work and life. **Work** is where I 
 ## 💼 Work
 
 <p align="center">
-  <img src="./assets/ai-flywheel.svg" alt="The AI flywheel: 01 Build AI fluency and adoption. 02 Preserve knowledge and expertise. 03 Transform business workflows. 04 Measure success. At the center: operations and communication." width="100%">
+  <img src="./assets/flywheel-v3.svg" alt="The AI flywheel: 01 Build AI fluency and adoption. 02 Preserve knowledge and expertise. 03 Transform business workflows. 04 Measure success. 05 Operations and communication." width="100%">
 </p>
 
 ### 01 · Build AI fluency & adoption
@@ -58,7 +58,7 @@ Here you’ll find what I’m working on for work and life. **Work** is where I 
 | 🎯 **AI Value Scorecard** | Tracks adoption, time saved, quality and business outcomes |
 | 🔁 **AI Operating Rhythm Kit** | Monthly AI review agenda, portfolio tracker and stakeholder update templates |
 
-### Operations & communication
+### 05 · Operations & communication
 
 | Deliverable | Description |
 |---|---|
