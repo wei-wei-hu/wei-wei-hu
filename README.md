@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Weiwei Hu — AI Strategy and Ops, Decision Intelligence. I build systems that let leaders see the likely outcome before they make the call." width="100%">
+  <img src="./assets/header.svg" alt="Weiwei Hu — Strategy &amp; Transformation Leader. Turning AI into better decisions, simplified workflows, and measurable business value." width="100%">
 </p>
 
 <p align="center">
