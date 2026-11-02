@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" alt="Weiwei Hu — Strategy &amp; Transformation Leader. Turning AI into better decisions, simplified workflows, and measurable business value." width="100%">
+  <img src="./assets/banner.svg" alt="Weiwei Hu — Strategy &amp; Transformation Leader. Turning AI into better decisions, simplified workflows, and measurable business value." width="100%">
 </p>
 
 <p align="center">
