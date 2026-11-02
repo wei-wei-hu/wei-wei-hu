@@ -70,7 +70,7 @@ Move the conversation beyond licenses, usage and demos to operational and busine
 | 🎯 **AI Value Scorecard** | Tracks whether AI is improving time, quality, adoption and business outcomes |
 | 🔁 **AI Operating Kit** | Creates a recurring management process for reviewing the portfolio, results, decisions and next actions |
 
-### 05 · Run AI transformation
+### 05 · Run transformation & communication
 
 Transformation needs an operating system around the technology: priorities, decisions, ownership, communication and follow-through.
 
