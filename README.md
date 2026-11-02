@@ -90,8 +90,7 @@ I write about what I learn from working at the intersection of AI, data, leaders
 | 📰 **[Afterglimpse](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7433145050123026432)** | Tech, leadership and the operations that connect them |
 | ✍️ **[Behind The Prompt](https://behindprompt.substack.com/)** | Essays on technology, leadership and innovation, including my **[Make AI Work](https://behindprompt.substack.com/s/make-ai-work)** series |
 | 📘 **[Generative Engine Optimization](https://www.amazon.com/dp/B0FX2B9WH4)** | My book on getting found when people ask AI before they ask Google |
-| 📝 **[Towards Data Science](https://towardsdatascience.com/author/weiwei.hu/)** | My articles on making AI work in the enterprise: workflow redesign, AI agents and business impact. Latest: [How to Make AI Work for End-to-End Business Processes](https://towardsdatascience.com/how-to-make-ai-work-for-end-to-end-business-processes/) |
-| 🖋️ **[Medium](https://medium.com/@weiwei.hu)** | My blog |
+| 📝 **[Towards Data Science](https://towardsdatascience.com/author/weiwei.hu/)** | My articles on making AI work, including workflow redesign, AI agents and business impact |
 
 ---
 
