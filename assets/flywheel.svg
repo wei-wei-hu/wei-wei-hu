@@ -22,7 +22,7 @@
   </defs>
 
   <rect width="1200" height="700" rx="22" fill="#17141F"/>
-  <text x="56" y="60" class="mono" font-size="14" fill="#F2A97E" letter-spacing="2">AI STRATEGY &amp; OPS · THE ENTERPRISE AI FLYWHEEL</text>
+  <text x="56" y="60" class="mono" font-size="14" fill="#F2A97E" letter-spacing="2">STRATEGY &amp; OPS · THE AI FLYWHEEL</text>
 
   <!-- wheel -->
   <circle cx="260" cy="370" r="230" fill="url(#orb)"/>
