@@ -96,7 +96,7 @@ I write about what I learn from working at the intersection of AI, data, leaders
 
 ## 🌿 Things I Create
 
-I’m curious by nature and love creating things. Some of my favorite projects come from everyday life and the things I care about.
+I’m always curious and love creating things. Some of my favorite projects grow out of everyday life and the things I care about.
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Project&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="./assets/spacer.svg" width="620" height="1"><br>What it does |
 | --- | --- |
