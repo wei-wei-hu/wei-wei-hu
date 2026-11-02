@@ -70,7 +70,7 @@ Measure how AI improves the way work gets done, creates business value, and deli
 | 🎯 **AI Value Scorecard** | Tracks whether AI is improving time, quality, adoption and business outcomes |
 | 🔁 **AI Operating Kit** | Creates a recurring management process for reviewing the portfolio, results, decisions and next actions |
 
-### 05 · Run transformation & communication
+### 05 · Lead transformation & operations
 
 Transformation needs an operating system around the technology: priorities, decisions, ownership, communication and follow-through.
 
