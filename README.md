@@ -5,9 +5,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/weiweihu/">LinkedIn</a> ·
   <a href="https://weiweihu.carrd.co/">Website</a> ·
-  <a href="https://wei-wei-hu.github.io/ai-hub/">AI Hub</a> ·
   <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7433145050123026432">Afterglimpse</a> ·
   <a href="https://behindprompt.substack.com/">Substack</a> ·
+  <a href="https://wei-wei-hu.github.io/ai-hub/">AI Hub</a> ·
   <a href="https://www.amazon.com/dp/B0FX2B9WH4">GEO Book</a>
 </p>
 
