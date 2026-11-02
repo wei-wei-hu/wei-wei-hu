@@ -23,73 +23,89 @@ Here you’ll find what I’m working on for work and life. **Work** is where I 
 
 ## 💼 My Work
 
+I focus on one question: **How do you turn AI from something people experiment with into something that changes how a business works?**
+
+My approach follows five connected parts: build fluency, preserve expertise, transform workflows, measure value, and create the operating system that keeps it moving.
+
 <p align="center">
   <img src="./assets/flywheel-v3.svg" alt="The AI flywheel: 01 Build AI fluency and adoption. 02 Preserve knowledge and expertise. 03 Transform business workflows. 04 Measure success. 05 Operations and communication." width="100%">
 </p>
 
 ### 01 · Build AI fluency & adoption
 
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deliverable&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="./assets/spacer.svg" width="620" height="1"><br>Description |
-|---|---|
-| 🧭 **AI Fluency Self-Assessment** | 10-minute quiz that sets your AI fluency level and a 30-day learning path |
-| 🏆 **AI Champions Kit** | Workshop deck, prompt cards and office-hours playbook to bring a team along |
-| 🧰 **[everyday-ai-playbook](https://wei-wei-hu.github.io/everyday-ai-playbook/)** | Practical AI use cases and prompts for everyday work |
-| 📡 **enterprise-ai-digest** | Agent skill that turns the week's enterprise AI news into a five-minute executive brief |
+Give people a reason to use AI, then help them get good at using it on real work.
+
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deliverable&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="./assets/spacer.svg" width="620" height="1"><br>What it does |
+| --- | --- |
+| 🧭 **AI Fluency Self-Assessment** | Identifies where someone is today and creates a practical 30-day learning path |
+| 🏆 **AI Champions Kit** | Gives champions the workshops, tools and working sessions to help adoption spread through a team |
+| 🧰 **[everyday-ai-playbook](https://wei-wei-hu.github.io/everyday-ai-playbook/)** | 25 practical ways to use AI across work, decisions, time and everyday life |
+| 📡 **enterprise-ai-digest** | Turns a week of enterprise AI news into a five-minute executive brief |
 
 ### 02 · Preserve knowledge & expertise
 
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deliverable&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="./assets/spacer.svg" width="620" height="1"><br>Description |
-|---|---|
-| 🧠 **Expert-to-Skill Kit** | Guided interview that turns an expert's judgment into a reusable Claude skill |
-| 📒 **Decision Log** | Template that records what was decided, why, and what was expected |
+Turn what experienced people know into knowledge others can actually use.
+
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deliverable&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="./assets/spacer.svg" width="620" height="1"><br>What it does |
+| --- | --- |
+| 🧠 **Expert-to-Skill Kit** | Captures an expert's judgment through guided interviews and turns it into a reusable AI skill |
+| 📒 **Decision Log** | Preserves what was decided, why it was decided and what was expected to happen |
 
 ### 03 · Transform business workflows
 
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deliverable&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="./assets/spacer.svg" width="620" height="1"><br>Description |
-|---|---|
-| 🔍 **Workflow Opportunity Scanner** | Scores each process step as automate, assist or keep human |
-| 🏗️ **workflow-architect** | Claude skill package from process mapping to agent specs |
+Start with the work itself. Decide where AI should assist, automate or stay out of the way.
 
-### 04 · Measure success
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deliverable&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="./assets/spacer.svg" width="620" height="1"><br>What it does |
+| --- | --- |
+| 🔍 **Workflow Opportunity Scanner** | Breaks down a workflow and identifies where AI can automate, assist or remain human-led |
+| 🏗️ **workflow-architect** | Takes a workflow from process mapping through AI opportunities, requirements and agent specifications |
 
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deliverable&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="./assets/spacer.svg" width="620" height="1"><br>Description |
-|---|---|
-| 📈 **[AI Performance & ROI](https://wei-wei-hu.github.io/ai-performance-roi/)** | Dashboard and ROI calculator for AI adoption and business value |
-| 🎯 **AI Value Scorecard** | Tracks adoption, time saved, quality and business outcomes |
-| 🔁 **AI Operating Kit** | Monthly AI review agenda, portfolio tracker and stakeholder update templates |
+### 04 · Measure whether AI is working
 
-### 05 · Operations & communication
+Move the conversation beyond licenses, usage and demos to operational and business results.
 
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deliverable&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="./assets/spacer.svg" width="620" height="1"><br>Description |
-|---|---|
-| ✉️ **Leader's Brief Pack** | Templates for executive decision memos and stakeholder updates |
-| 🏭 **AI Use Case & Agent Factory** | One inventory of every AI use case and agent, with its owner, stage, value and next decision |
-| 🎙️ **[From Data to Decisions](https://www.productcoalition.com/p/ep103-from-data-to-decisions-making)** | Product Coalition podcast on making analytics actionable with AI |
-| 🎤 **[Data + AI Summit 2025](https://www.databricks.com/dataaisummit/speaker/weiwei-hu)** | Talk on aligning big data strategy with business priorities |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deliverable&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="./assets/spacer.svg" width="620" height="1"><br>What it does |
+| --- | --- |
+| 📈 **[AI Performance & ROI](https://wei-wei-hu.github.io/ai-performance-roi/)** | Measures AI adoption, operational performance and business value, with an ROI calculator for investment decisions |
+| 🎯 **AI Value Scorecard** | Tracks whether AI is improving time, quality, adoption and business outcomes |
+| 🔁 **AI Operating Kit** | Creates a recurring management process for reviewing the portfolio, results, decisions and next actions |
 
-### ✍️ Writing
+### 05 · Run AI transformation
+
+Transformation needs an operating system around the technology: priorities, decisions, ownership, communication and follow-through.
+
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deliverable&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="./assets/spacer.svg" width="620" height="1"><br>What it does |
+| --- | --- |
+| ✉️ **Leader's Brief Pack** | Turns complex work into concise executive decision memos and stakeholder updates |
+| 🏭 **AI Use Case & Agent Factory** | Keeps every use case and agent in one portfolio with its owner, stage, value and next decision |
+| 🎙️ **[From Data to Decisions](https://www.productcoalition.com/p/ep103-from-data-to-decisions-making)** | Product Coalition conversation on turning analytics into decisions and action with AI |
+| 🎤 **[Data + AI Summit 2025](https://www.databricks.com/dataaisummit/speaker/weiwei-hu)** | My talk on connecting big-data strategy to business priorities |
+
+### ✍️ What I Write About
+
+I write about what I learn from working at the intersection of AI, data, leadership and operations.
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Writing&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="./assets/spacer.svg" width="620" height="1"><br>What it is |
-|---|---|
-| 📰 **[Afterglimpse](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7433145050123026432)** | LinkedIn newsletter on tech, leadership, and the operations that connect them, for founders and executives |
-| ✍️ **[Behind The Prompt](https://behindprompt.substack.com/)** | My Substack on tech, leadership and innovation, thinking in public, including the **[Make AI Work](https://behindprompt.substack.com/s/make-ai-work)** series |
-| 📘 **[Generative Engine Optimization](https://www.amazon.com/dp/B0FX2B9WH4)** | My book on how to get found when your audience asks AI before it asks Google |
-| 📝 **[Towards Data Science](https://towardsdatascience.com/author/weiwei.hu/)** · **[Medium](https://medium.com/@weiwei.hu)** | Articles on predictive analytics: forecasting customer lifetime value, lifecycle success metrics and predictive lead scoring |
+| --- | --- |
+| 📰 **[Afterglimpse](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7433145050123026432)** | Tech, leadership and the operations that connect them |
+| ✍️ **[Behind The Prompt](https://behindprompt.substack.com/)** | Essays on technology, leadership and innovation, including my **[Make AI Work](https://behindprompt.substack.com/s/make-ai-work)** series |
+| 📘 **[Generative Engine Optimization](https://www.amazon.com/dp/B0FX2B9WH4)** | My book on getting found when people ask AI before they ask Google |
+| 📝 **[Towards Data Science](https://towardsdatascience.com/author/weiwei.hu/)** · **[Medium](https://medium.com/@weiwei.hu)** | My earlier work on predictive analytics, including customer lifetime value, lifecycle metrics and lead scoring |
 
 ---
 
-## 🌿 My Life
+## 🌿 Things I Create
 
-Making things by hand keeps my product instincts honest. Several of my tools started at home before they reached work.
+I like turning problems I encounter into something useful. Some start with work. Others start with something I want for myself.
 
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My&nbsp;AI&nbsp;Tools&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="./assets/spacer.svg" width="620" height="1"><br>What it is |
-|---|---|
-| ⚡ **[AI Hub](https://wei-wei-hu.github.io/ai-hub/)** | One home for my everyday AI tools |
-| 💡 **[Underline AI](https://wei-wei-hu.github.io/underline-ai/)** | Turns one situation into a one-page action plan with a next best step |
-| 📋 **[Program Status Board](https://wei-wei-hu.github.io/program-management/)** | Tracks projects, milestones and weekly updates in one view |
-| 🪡 **[The Atelier](https://wei-wei-hu.github.io/the-atelier/)** | AI planner for setting goals, planning days and turning finished work into accomplishments |
-| 🧭 **[Life Designer Pro](https://wei-wei-hu.github.io/life-designer-pro/)** | AI life-design coach for mapping career and life paths. Free and private in your browser, also available as a Claude Code skill |
-| 🥗 **[Evera Table](https://everatable.pages.dev)** | AI kitchen companion: snap a photo, describe the meal, get the recipe and steps |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Project&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="./assets/spacer.svg" width="620" height="1"><br>What it does |
+| --- | --- |
+| ⚡ **[AI Hub](https://wei-wei-hu.github.io/ai-hub/)** | Brings my practical AI tools, guides and experiments together in one place |
+| 💡 **[Underline AI](https://wei-wei-hu.github.io/underline-ai/)** | Applies ideas from a curated library to a real situation and gives you what to do, what to say and what to do next |
+| 📋 **[Program Status Board](https://wei-wei-hu.github.io/program-management/)** | Keeps projects, milestones, dependencies and updates together, then turns the record into weekly and monthly reports |
+| 🪡 **[The Atelier](https://wei-wei-hu.github.io/the-atelier/)** | Helps you plan what matters at work and in life, then keeps a record of what you accomplish |
+| 🧭 **[Life Designer Pro](https://wei-wei-hu.github.io/life-designer-pro/)** | Helps you explore possible career and life paths and turn them into concrete experiments |
+| 🥗 **[Evera Table](https://everatable.pages.dev)** | Turns what you already have in your kitchen into meals you actually want to make |
 
 ---
 
