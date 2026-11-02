@@ -28,7 +28,7 @@ I focus on one question: **How do you move AI from experimentation to changing h
 My approach follows five connected parts: build fluency, preserve expertise, transform workflows, measure value, and create the operating system that keeps it moving.
 
 <p align="center">
-  <img src="./assets/flywheel-v3.svg" alt="The AI flywheel: 01 Build AI fluency and adoption. 02 Preserve knowledge and expertise. 03 Transform business workflows. 04 Measure success. 05 Operations and communication." width="100%">
+  <img src="./assets/flywheel-v3.svg" alt="The AI flywheel: 01 Build AI fluency and adoption. 02 Preserve knowledge and expertise. 03 Transform business workflows. 04 Measure success. 05 Operations and communication." width="80%">
 </p>
 
 ### 01 · Build AI fluency & adoption
@@ -99,7 +99,7 @@ I write about what I learn from working at the intersection of AI, data, leaders
 I’m always curious and love creating things. Some of my favorite projects grow out of everyday life and the things I care about.
 
 <p align="center">
-  <img src="./assets/things-i-create-v2.svg" alt="Things I create, from everyday life: AI Hub, Underline AI, Program Status Board, The Atelier, Life Designer Pro and Evera Table, each shown as an illustrated card." width="100%">
+  <img src="./assets/things-i-create-v2.svg" alt="Things I create, from everyday life: AI Hub, Underline AI, Program Status Board, The Atelier, Life Designer Pro and Evera Table, each shown as an illustrated card." width="80%">
 </p>
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Project&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="./assets/spacer.svg" width="620" height="1"><br>What it does |
