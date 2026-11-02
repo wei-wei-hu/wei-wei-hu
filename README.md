@@ -76,7 +76,7 @@ Here you’ll find what I’m working on for work and life. **Work** is where I 
 | 📘 **[Generative Engine Optimization](https://www.amazon.com/dp/B0FX2B9WH4)** | My book on how to get found when your audience asks AI before it asks Google |
 | 📝 **[Towards Data Science](https://towardsdatascience.com/author/weiwei.hu/)** · **[Medium](https://medium.com/@weiwei.hu)** | Articles on predictive analytics: forecasting customer lifetime value, lifecycle success metrics and predictive lead scoring |
 
-### ⚡ Tools I use every day
+### ⚡ My AI Agent Tools
 
 **[AI Hub](https://wei-wei-hu.github.io/ai-hub/)** brings my everyday AI tools together in one place: [Underline AI](https://wei-wei-hu.github.io/underline-ai/) for next-step action plans, the [Program Status Board](https://wei-wei-hu.github.io/program-management/) for project tracking, and Minutes to Actions for meeting follow-ups.
 
