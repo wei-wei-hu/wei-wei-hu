@@ -60,7 +60,7 @@ Start with the work itself. Decide where AI should assist, automate or stay out 
 | 🔍 **Workflow Opportunity Scanner** | Breaks down a workflow and identifies where AI can automate, assist or remain human-led |
 | 🏗️ **workflow-architect** | Takes a workflow from process mapping through AI opportunities, requirements and agent specifications |
 
-### 04 · Measure whether AI is working
+### 04 · Measure AI success
 
 Move the conversation beyond licenses, usage and demos to operational and business results.
 
