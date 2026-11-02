@@ -60,7 +60,7 @@ Start with the work itself. Decide where AI should assist, improve, redesign, an
 | 🔍 **Workflow Opportunity Scanner** | Breaks down a workflow and identifies where AI can automate, assist or remain human-led |
 | 🏗️ **workflow-architect** | Takes a workflow from process mapping through AI opportunities, requirements and agent specifications |
 
-### 04 · Measure AI success
+### 04 · Measure transformation success
 
 Measure how AI improves the way work gets done, creates business value, and delivers financial results.
 
