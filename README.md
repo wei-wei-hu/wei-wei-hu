@@ -76,10 +76,6 @@ Here you’ll find what I’m working on for work and life. **Work** is where I 
 | 📘 **[Generative Engine Optimization](https://www.amazon.com/dp/B0FX2B9WH4)** | My book on how to get found when your audience asks AI before it asks Google |
 | 📝 **[Towards Data Science](https://towardsdatascience.com/author/weiwei.hu/)** · **[Medium](https://medium.com/@weiwei.hu)** | Articles on predictive analytics: forecasting customer lifetime value, lifecycle success metrics and predictive lead scoring |
 
-### ⚡ My AI Agent Tools
-
-**[AI Hub](https://wei-wei-hu.github.io/ai-hub/)** brings my everyday AI tools together in one place: [Underline AI](https://wei-wei-hu.github.io/underline-ai/) for next-step action plans, the [Program Status Board](https://wei-wei-hu.github.io/program-management/) for project tracking, and Minutes to Actions for meeting follow-ups.
-
 ---
 
 ## 🌿 Life
@@ -91,6 +87,10 @@ Making things by hand keeps my product instincts honest. Several of my tools sta
 | 🪡 **[The Atelier](https://wei-wei-hu.github.io/the-atelier/)** | AI planner for setting goals, planning days and turning finished work into accomplishments |
 | 🧭 **[Life Designer Pro](https://wei-wei-hu.github.io/life-designer-pro/)** | AI life-design coach for mapping career and life paths. Free and private in your browser, also available as a Claude Code skill |
 | 🥗 **[Evera Table](https://everatable.pages.dev)** | AI kitchen companion: snap a photo, describe the meal, get the recipe and steps |
+
+### ⚡ My AI Agent Tools
+
+**[AI Hub](https://wei-wei-hu.github.io/ai-hub/)** brings my everyday AI tools together in one place: [Underline AI](https://wei-wei-hu.github.io/underline-ai/) for next-step action plans, the [Program Status Board](https://wei-wei-hu.github.io/program-management/) for project tracking, and Minutes to Actions for meeting follow-ups.
 
 Outside the screen I draw colored-pencil illustrations and design jewelry.
 
