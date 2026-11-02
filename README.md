@@ -62,7 +62,7 @@ Start with the work itself. Decide where AI should assist, improve, redesign, an
 
 ### 04 · Measure AI success
 
-Move the conversation beyond licenses, usage and demos to operational and business results.
+Measure how AI improves the way work gets done, creates business value, and delivers financial results.
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deliverable&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="./assets/spacer.svg" width="620" height="1"><br>What it does |
 | --- | --- |
