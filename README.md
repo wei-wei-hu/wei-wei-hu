@@ -13,7 +13,7 @@
 
 ---
 
-### 👋 Hi, I'm Weiwei Hu.
+### 👋 Hi, I'm Weiwei.
 
 I'm a strategy and transformation leader focused on turning AI and data into better decisions, smarter ways of working, and measurable business value. My work spans enterprise AI and digital transformation, cross-functional operations, and AI/ML and agentic AI for business and investment decisions. I also lead a 3,000-member data science community.
 
