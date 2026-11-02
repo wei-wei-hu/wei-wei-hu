@@ -78,7 +78,7 @@ Here you’ll find what I’m working on for work and life. **Work** is where I 
 
 ---
 
-## 🌿 Life
+## 🌿 My Life
 
 Making things by hand keeps my product instincts honest. Several of my tools started at home before they reached work.
 
