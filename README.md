@@ -15,9 +15,11 @@
 
 ### 👋 Hi, I'm Weiwei.
 
-I'm a strategy and transformation leader focused on turning AI and data into better decisions, smarter ways of working, and measurable business value. My work spans enterprise AI and digital transformation, cross-functional operations, and AI/ML and agentic AI for business and investment decisions. I also lead a 3,000-member data science community.
+I'm a strategy and transformation leader focused on turning AI and data into better decisions, better ways of working, and measurable business value.
 
-Here you’ll find what I’m working on. **Work** is where I share the systems, frameworks, and tools I create for AI transformation. **Things I Create** is where I share ideas and tools that started with something I wanted to build for myself.
+I lead enterprise AI transformation, work across data and operations, and use advanced AI/ML to support business and investment decisions. I also chair a 3,000-member data science community.
+
+Here you’ll find what I’m working on. **Work** is where I share perspectives, frameworks, and tools across digital transformation, AI, and data. **Things I Create** is where I bring together my curiosity and creativity to design and build products.
 
 ---
 
