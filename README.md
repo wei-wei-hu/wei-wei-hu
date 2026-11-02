@@ -44,7 +44,7 @@ Give people a reason to use AI, then help them get good at using it on real work
 
 ### 02 · Preserve knowledge & expertise
 
-Turn what experienced people know into knowledge others can actually use.
+Turn expert knowledge into something teams and AI can use.
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deliverable&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="./assets/spacer.svg" width="620" height="1"><br>What it does |
 | --- | --- |
