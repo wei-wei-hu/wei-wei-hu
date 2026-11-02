@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F2A97E"/>
+      <stop offset="1" stop-color="#C98BB9"/>
+    </linearGradient>
+    <radialGradient id="orb" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#C98BB9" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#C98BB9" stop-opacity="0"/>
+    </radialGradient>
+    <marker id="arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0 0 L10 5 L0 10 z" fill="#F2A97E"/>
+    </marker>
+    <style>
+      .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+      .spin { animation: spin 40s linear infinite; transform-origin: 260px 370px; }
+      @keyframes spin { to { transform: rotate(360deg); } }
+      .pulse { animation: pulse 3.5s ease-in-out infinite; }
+      @keyframes pulse { 0%,100% { opacity: .75; } 50% { opacity: 1; } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="700" rx="22" fill="#17141F"/>
+  <text x="56" y="60" class="mono" font-size="14" fill="#F2A97E" letter-spacing="2">AI STRATEGY &amp; OPS · THE ENTERPRISE AI FLYWHEEL</text>
+
+  <!-- wheel -->
+  <circle cx="260" cy="370" r="230" fill="url(#orb)"/>
+  <g class="spin">
+    <circle cx="260" cy="370" r="165" fill="none" stroke="#3A3248" stroke-width="2" stroke-dasharray="4 10"/>
+  </g>
+  <!-- spokes to hub -->
+  <g stroke="#3A3248" stroke-width="2">
+    <line x1="260" y1="251" x2="260" y2="306"/>
+    <line x1="379" y1="370" x2="324" y2="370"/>
+    <line x1="260" y1="489" x2="260" y2="434"/>
+    <line x1="141" y1="370" x2="196" y2="370"/>
+  </g>
+  <!-- arcs clockwise: top → right → bottom → left -->
+  <path d="M 312 213 A 165 165 0 0 1 417 318" stroke="#F2A97E" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+  <path d="M 417 422 A 165 165 0 0 1 312 527" stroke="#F2A97E" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+  <path d="M 208 527 A 165 165 0 0 1 103 422" stroke="#F2A97E" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+  <path d="M 103 318 A 165 165 0 0 1 208 213" stroke="#F2A97E" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+
+  <!-- stage nodes -->
+  <g class="sans" font-size="13" font-weight="700" text-anchor="middle" fill="#F7F3EE">
+    <circle cx="260" cy="205" r="46" fill="#2A2236" stroke="url(#g)" stroke-width="2.5"/>
+    <text x="260" y="201">AI</text><text x="260" y="218">Fluency</text>
+    <circle cx="425" cy="370" r="46" fill="#2A2236" stroke="url(#g)" stroke-width="2.5"/>
+    <text x="425" y="366">Knowledge</text><text x="425" y="383">&amp; Expertise</text>
+    <circle cx="260" cy="535" r="46" fill="#2A2236" stroke="url(#g)" stroke-width="2.5"/>
+    <text x="260" y="531">Workflow</text><text x="260" y="548">Redesign</text>
+    <circle cx="95" cy="370" r="46" fill="#2A2236" stroke="url(#g)" stroke-width="2.5"/>
+    <text x="95" y="366">Measured</text><text x="95" y="383">Success</text>
+  </g>
+
+  <!-- hub -->
+  <g class="pulse">
+    <circle cx="260" cy="370" r="64" fill="url(#g)"/>
+  </g>
+  <g class="sans" font-size="14" font-weight="700" text-anchor="middle" fill="#17141F">
+    <text x="260" y="364">Operations</text>
+    <text x="260" y="384">&amp; Comms</text>
+  </g>
+
+  <!-- stage cards -->
+  <g class="sans">
+    <g transform="translate(530,86)">
+      <rect width="300" height="214" rx="16" fill="#211C2C" stroke="#3A3248"/>
+      <text x="24" y="38" class="mono" font-size="13" fill="#F2A97E">01 · ADOPTION</text>
+      <text x="24" y="70" font-size="20" font-weight="700" fill="#F7F3EE">Build AI fluency</text>
+      <text x="24" y="96" font-size="20" font-weight="700" fill="#F7F3EE">&amp; adoption</text>
+      <text x="24" y="130" font-size="14.5" fill="#B9B0C8">A 3,000-member data science</text>
+      <text x="24" y="152" font-size="14.5" fill="#B9B0C8">community, a newsletter, a book</text>
+      <text x="24" y="174" font-size="14.5" fill="#B9B0C8">and playbooks that get people</text>
+      <text x="24" y="196" font-size="14.5" fill="#B9B0C8">using AI in their real work.</text>
+    </g>
+    <g transform="translate(850,86)">
+      <rect width="300" height="214" rx="16" fill="#211C2C" stroke="#3A3248"/>
+      <text x="24" y="38" class="mono" font-size="13" fill="#E9A28B">02 · KNOWLEDGE</text>
+      <text x="24" y="70" font-size="20" font-weight="700" fill="#F7F3EE">Preserve knowledge</text>
+      <text x="24" y="96" font-size="20" font-weight="700" fill="#F7F3EE">&amp; expertise</text>
+      <text x="24" y="130" font-size="14.5" fill="#B9B0C8">Capture how experts reason as</text>
+      <text x="24" y="152" font-size="14.5" fill="#B9B0C8">reusable Claude skills with</text>
+      <text x="24" y="174" font-size="14.5" fill="#B9B0C8">evidence rules, so judgment</text>
+      <text x="24" y="196" font-size="14.5" fill="#B9B0C8">stays when people move on.</text>
+    </g>
+    <g transform="translate(530,318)">
+      <rect width="300" height="214" rx="16" fill="#211C2C" stroke="#3A3248"/>
+      <text x="24" y="38" class="mono" font-size="13" fill="#D894A8">03 · WORKFLOWS</text>
+      <text x="24" y="70" font-size="20" font-weight="700" fill="#F7F3EE">Transform business</text>
+      <text x="24" y="96" font-size="20" font-weight="700" fill="#F7F3EE">workflows</text>
+      <text x="24" y="130" font-size="14.5" fill="#B9B0C8">Fix the process first, decide</text>
+      <text x="24" y="152" font-size="14.5" fill="#B9B0C8">what stays human, then ship</text>
+      <text x="24" y="174" font-size="14.5" fill="#B9B0C8">agent specs and tools teams</text>
+      <text x="24" y="196" font-size="14.5" fill="#B9B0C8">can deploy.</text>
+    </g>
+    <g transform="translate(850,318)">
+      <rect width="300" height="214" rx="16" fill="#211C2C" stroke="#3A3248"/>
+      <text x="24" y="38" class="mono" font-size="13" fill="#C98BB9">04 · MEASUREMENT</text>
+      <text x="24" y="70" font-size="20" font-weight="700" fill="#F7F3EE">Measure</text>
+      <text x="24" y="96" font-size="20" font-weight="700" fill="#F7F3EE">success</text>
+      <text x="24" y="130" font-size="14.5" fill="#B9B0C8">ROI models and performance</text>
+      <text x="24" y="152" font-size="14.5" fill="#B9B0C8">dashboards that show what AI</text>
+      <text x="24" y="174" font-size="14.5" fill="#B9B0C8">returns, and feed the next</text>
+      <text x="24" y="196" font-size="14.5" fill="#B9B0C8">round of adoption.</text>
+    </g>
+    <!-- hub card -->
+    <g transform="translate(530,550)">
+      <rect width="620" height="114" rx="16" fill="#2A2236" stroke="url(#g)" stroke-width="1.5"/>
+            <text x="24" y="50" font-size="22" font-weight="700" fill="#F7F3EE">Operations &amp; communication</text>
+      <text x="24" y="82" font-size="14.5" fill="#B9B0C8">Staff to the GM/SVP of a $25B business, turning AI and analytics into decisions.</text>
+    </g>
+  </g>
+</svg>
