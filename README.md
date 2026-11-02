@@ -17,7 +17,7 @@
 
 I'm a strategy and transformation leader focused on turning AI and data into better decisions, smarter ways of working, and measurable business value. My work spans enterprise AI and digital transformation, cross-functional operations, and AI/ML and agentic AI for business and investment decisions. I also lead a 3,000-member data science community.
 
-Here you’ll find what I’m working on for work and life. **Work** is where I share systems, frameworks, and tools I’ve created. **Life** is where I share things I’ve designed for myself.
+Here you’ll find what I’m working on. **Work** is where I share the systems, frameworks, and tools I create for AI transformation. **Things I Create** is where I share ideas and tools that started with something I wanted to build for myself.
 
 ---
 
