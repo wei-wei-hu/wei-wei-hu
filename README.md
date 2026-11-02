@@ -13,11 +13,11 @@
 
 ---
 
-### 👋 Hi, I'm Weiwei
+### 👋 Hi, I'm Weiwei Hu.
 
-I'm a strategy and transformation leader working across AI, data and cross-functional operations. I connect teams to turn business priorities into better workflows and measurable results, and I serve as Staff to the GM/SVP of a $25B business, guiding capital decisions with predictive AI/ML. I also lead a 3,000-member data science community and wrote a book on Generative Engine Optimization (GEO).
+I'm a strategy and transformation leader focused on turning AI and data into better decisions, smarter ways of working, and measurable business value. My work spans enterprise AI and digital transformation, cross-functional operations, and AI/ML and agentic AI for business and investment decisions. I also lead a 3,000-member data science community.
 
-This page has two halves. **Work** is organised around the AI flywheel I drive for the enterprise. **Life** is where I build tools for planning, cooking and making things by hand.
+Here you’ll find what I’m working on for work and life. **Work** is where I share systems, frameworks, and tools I’ve created. **Life** is where I share things I’ve designed for myself.
 
 ---
 
