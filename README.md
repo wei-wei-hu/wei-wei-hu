@@ -95,7 +95,7 @@ Outside the screen I draw colored-pencil illustrations and design jewelry.
 
 ---
 
-## 📬 Connect
+## 📬 Connect with me
 
 <p align="center">
   <a href="https://weiweihu.carrd.co/"><img src="https://img.shields.io/badge/Website-weiweihu.carrd.co-F2A97E?style=for-the-badge&logoColor=17141F" alt="Website: weiweihu.carrd.co"></a>
