@@ -23,7 +23,7 @@ Here you’ll find what I’m working on. **Work** is where I share the systems,
 
 ## 💼 My Work
 
-I focus on one question: **How do you turn AI from something people experiment with into something that changes how a business works?**
+I focus on one question: **How do you move AI from experimentation to changing how the business actually works?**
 
 My approach follows five connected parts: build fluency, preserve expertise, transform workflows, measure value, and create the operating system that keeps it moving.
 
