@@ -89,11 +89,10 @@ I write about what I learn from working at the intersection of AI, data, leaders
 I’m always curious and love creating things. Some of my favorite projects grow out of everyday life and the things I care about.
 
 <p align="center">
-  <img src="./assets/things-i-create-v2.svg" alt="Things I create, from everyday life: AI Hub, Underline AI, Program Status Board, The Atelier, Life Designer Pro and Evera Table, each shown as an illustrated card." width="80%">
+  <img src="./assets/things-i-create-v3.svg" alt="Things I create, from everyday life: AI Hub, Program Status Board, The Atelier, Life Designer Pro and Evera Table, each shown as an illustrated card." width="80%">
 </p>
 
 - ⚡ **[AI Hub](https://wei-wei-hu.github.io/ai-hub/)**: Brings my practical AI tools, guides and experiments together in one place
-- 💡 **[Underline AI](https://wei-wei-hu.github.io/underline-ai/)**: Applies ideas from a curated library to a real situation and gives you what to do, what to say and what to do next
 - 📋 **[Program Status Board](https://wei-wei-hu.github.io/program-management/)**: Keeps projects, milestones, dependencies and updates together, then turns the record into weekly and monthly reports
 - 🪡 **[The Atelier](https://wei-wei-hu.github.io/the-atelier/)**: Helps you plan what matters at work and in life, then keeps a record of what you accomplish
 - 🧭 **[Life Designer Pro](https://wei-wei-hu.github.io/life-designer-pro/)**: Helps you explore possible career and life paths and turn them into concrete experiments

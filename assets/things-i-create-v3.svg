@@ -28,35 +28,27 @@
   <text x="24" y="214" class="mono" font-size="13" fill="#F2A97E">01 · HUB</text>
   <text x="24" y="242" class="sans" font-size="21" font-weight="700" fill="#F7F3EE">AI Hub</text>
   <text x="24" y="266" class="sans" font-size="14" fill="#B9B0C8">one home for my tools</text>
-</g><g transform="translate(426,88)">
-  <rect width="348" height="284" rx="16" fill="#211C2C" stroke="#3A3248"/>
-  <rect x="14" y="14" width="320" height="176" rx="12" fill="#1B1724"/>
-  <g transform="translate(14,4)"><g class="glow"><circle cx="160" cy="106" r="44" fill="#F2A97E" opacity="0.18"/></g>
-<path d="M140 128 C120 112 124 74 160 72 C196 74 200 112 180 128 L178 142 H142 Z" fill="none" stroke="#F2A97E" stroke-width="3" stroke-linejoin="round"/>
-<rect x="144" y="142" width="32" height="12" rx="3" fill="none" stroke="#E9E2F0" stroke-width="2.5"/>
-<path d="M150 112 L160 124 L170 112" fill="none" stroke="#E9E2F0" stroke-width="2.5" stroke-linecap="round"/>
-<path d="M112 174 C130 166 146 182 162 174 C178 166 194 182 210 172" fill="none" stroke="#C98BB9" stroke-width="3.5" stroke-linecap="round"/></g>
-  <text x="24" y="214" class="mono" font-size="13" fill="#E9A28B">02 · DECIDE</text>
-  <text x="24" y="242" class="sans" font-size="21" font-weight="700" fill="#F7F3EE">Underline AI</text>
-  <text x="24" y="266" class="sans" font-size="14" fill="#B9B0C8">what to do next</text>
-</g><g transform="translate(796,88)">
+</g>
+<g transform="translate(426,88)">
   <rect width="348" height="284" rx="16" fill="#211C2C" stroke="#3A3248"/>
   <rect x="14" y="14" width="320" height="176" rx="12" fill="#1B1724"/>
   <g transform="translate(14,4)"><rect x="88" y="74" width="148" height="106" rx="8" fill="none" stroke="#E9E2F0" stroke-width="2.5"/><path d="M102 92 H132" stroke="#9C93AE" stroke-width="2.5" stroke-linecap="round"/><rect x="102" y="102" width="30" height="18" rx="3" fill="#F2A97E"/><rect x="102" y="126" width="30" height="18" rx="3" fill="#F2A97E"/><rect x="102" y="150" width="30" height="18" rx="3" fill="#F2A97E"/><path d="M146 92 H176" stroke="#9C93AE" stroke-width="2.5" stroke-linecap="round"/><rect x="146" y="102" width="30" height="18" rx="3" fill="#E39C98"/><rect x="146" y="126" width="30" height="18" rx="3" fill="#E39C98"/><path d="M190 92 H220" stroke="#9C93AE" stroke-width="2.5" stroke-linecap="round"/><rect x="190" y="102" width="30" height="18" rx="3" fill="#C98BB9"/><rect x="190" y="126" width="30" height="18" rx="3" fill="#C98BB9"/></g>
-  <text x="24" y="214" class="mono" font-size="13" fill="#E39C98">03 · ORGANIZE</text>
+  <text x="24" y="214" class="mono" font-size="13" fill="#E39C98">02 · ORGANIZE</text>
   <text x="24" y="242" class="sans" font-size="21" font-weight="700" fill="#F7F3EE">Program Status Board</text>
   <text x="24" y="266" class="sans" font-size="14" fill="#B9B0C8">projects, kept tidy</text>
-</g><g transform="translate(56,386)">
+</g>
+<g transform="translate(796,88)">
   <rect width="348" height="284" rx="16" fill="#211C2C" stroke="#3A3248"/>
   <rect x="14" y="14" width="320" height="176" rx="12" fill="#1B1724"/>
   <g transform="translate(14,4)"><path d="M100 84 Q130 74 160 86 Q190 74 220 84 V172 Q190 162 160 174 Q130 162 100 172 Z" fill="none" stroke="#E9E2F0" stroke-width="2.5" stroke-linejoin="round"/>
 <path d="M160 86 V174" stroke="#E9E2F0" stroke-width="2"/><path d="M112 104 H150" stroke="#9C93AE" stroke-width="2"/><path d="M170 104 H208" stroke="#9C93AE" stroke-width="2"/><path d="M112 120 H150" stroke="#9C93AE" stroke-width="2"/><path d="M170 120 H208" stroke="#9C93AE" stroke-width="2"/><path d="M112 136 H150" stroke="#9C93AE" stroke-width="2"/><path d="M170 136 H208" stroke="#9C93AE" stroke-width="2"/><path d="M112 152 H150" stroke="#9C93AE" stroke-width="2"/><path d="M170 152 H208" stroke="#9C93AE" stroke-width="2"/>
 <path d="M200 150 L232 112 L240 118 L208 156 Z" fill="#F2A97E"/>
 <path d="M200 150 L198 160 L208 156" fill="#E9E2F0"/></g>
-  <text x="24" y="214" class="mono" font-size="13" fill="#D894A8">04 · PLAN</text>
+  <text x="24" y="214" class="mono" font-size="13" fill="#D894A8">03 · PLAN</text>
   <text x="24" y="242" class="sans" font-size="21" font-weight="700" fill="#F7F3EE">The Atelier</text>
   <text x="24" y="266" class="sans" font-size="14" fill="#B9B0C8">plan what matters</text>
-</g><g transform="translate(426,386)">
+</g>
+<g transform="translate(241,386)">
   <rect width="348" height="284" rx="16" fill="#211C2C" stroke="#3A3248"/>
   <rect x="14" y="14" width="320" height="176" rx="12" fill="#1B1724"/>
   <g transform="translate(14,4)"><path d="M104 176 C130 150 112 128 146 118 C180 108 168 92 196 84" fill="none" stroke="#C98BB9" stroke-width="3" stroke-dasharray="2 9" stroke-linecap="round"/>
@@ -64,17 +56,18 @@
 <path d="M196 84 V54" stroke="#E9E2F0" stroke-width="2.5" stroke-linecap="round"/>
 <path d="M196 54 L222 62 L196 70 Z" fill="#F2A97E"/>
 <circle cx="232" cy="104" r="3" fill="#9C93AE"/><circle cx="96" cy="128" r="3" fill="#9C93AE"/><circle cx="124" cy="88" r="3" fill="#9C93AE"/><circle cx="216" cy="146" r="3" fill="#9C93AE"/></g>
-  <text x="24" y="214" class="mono" font-size="13" fill="#C98BB9">05 · EXPLORE</text>
+  <text x="24" y="214" class="mono" font-size="13" fill="#C98BB9">04 · EXPLORE</text>
   <text x="24" y="242" class="sans" font-size="21" font-weight="700" fill="#F7F3EE">Life Designer Pro</text>
   <text x="24" y="266" class="sans" font-size="14" fill="#B9B0C8">try new paths</text>
-</g><g transform="translate(796,386)">
+</g>
+<g transform="translate(611,386)">
   <rect width="348" height="284" rx="16" fill="#211C2C" stroke="#3A3248"/>
   <rect x="14" y="14" width="320" height="176" rx="12" fill="#1B1724"/>
   <g transform="translate(14,4)"><g class="steam"><path d="M140 92 C130 80 150 72 140 58" fill="none" stroke="#9C93AE" stroke-width="2.5" stroke-linecap="round"/><path d="M162 92 C152 80 172 72 162 58" fill="none" stroke="#9C93AE" stroke-width="2.5" stroke-linecap="round"/><path d="M184 92 C174 80 194 72 184 58" fill="none" stroke="#9C93AE" stroke-width="2.5" stroke-linecap="round"/></g>
 <path d="M98 112 C102 150 128 170 162 170 C196 170 222 150 226 112 Z" fill="none" stroke="#E9E2F0" stroke-width="2.5" stroke-linejoin="round"/>
 <circle cx="140" cy="106" r="7" fill="#E39C98"/><circle cx="182" cy="106" r="6" fill="#F2A97E"/><path d="M156 108 q9 -12 18 0 q-9 6 -18 0z" fill="#C98BB9"/>
 <path d="M122 140 C142 150 182 150 202 140" fill="none" stroke="#F2A97E" stroke-width="3" stroke-linecap="round"/></g>
-  <text x="24" y="214" class="mono" font-size="13" fill="#F2A97E">06 · EAT WELL</text>
+  <text x="24" y="214" class="mono" font-size="13" fill="#F2A97E">05 · EAT WELL</text>
   <text x="24" y="242" class="sans" font-size="21" font-weight="700" fill="#F7F3EE">Evera Table</text>
   <text x="24" y="266" class="sans" font-size="14" fill="#B9B0C8">cook what you love</text>
 </g>
